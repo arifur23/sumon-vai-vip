@@ -81078,7 +81078,7 @@ if(s===$){r=p.c
 r.toString
 s=p.d=t.jA.a(r)}q=s.apU($.aEI(),t.aq)
 r=A.b_(n)
-return new A.t2(q,"Flutter Web App",A.uh(A.av2(A.b_(n),o,o),o,o,B.bn,r,!0),!1,o)}}
+return new A.t2(q,"MFX MECHANIC",A.uh(A.av2(A.b_(n),o,o),o,o,B.bn,r,!0),!1,o)}}
 A.HY.prototype={
 bR(){var s=A.c([],t.ha),r=this.al()
 s=new A.HX(A.q(t.o8,t.I0),s,r,this,B.a7)
